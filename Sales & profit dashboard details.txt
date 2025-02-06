@@ -1,0 +1,12 @@
+✅ Key Metrics Overview: Highlight total sales and total profit for quick performance snapshots.  
+✅ Profit by Year Chart: Visualize yearly profit trends to identify growth opportunities.  
+✅ Sales Breakdown by Category: Dive deep into sales distribution across categories.  
+✅ Customer Count by Year: Analyze customer engagement trends with a detailed pie chart.  
+✅ Sales by State Map: Understand your geographical performance with a sales heatmap.  
+✅ Monthly Sales Trends: Spot performance patterns with easy-to-read monthly trends.  
+✅ Top 5 Customers Profits: Identify and focus on your most valuable customers. "
+What’s Covered?
+📊 Data preparation, and Data cleaning, 
+📈 Creating PivotTables to summarize key metrics  
+🎨 Designing charts and visual elements  
+🎯 Building a professional dashboard layout
