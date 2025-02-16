@@ -1,3 +1,4 @@
+SALES & PROFIT DASHBOARD
 ✅ Key Metrics Overview: Highlight total sales and total profit for quick performance snapshots.  
 ✅ Profit by Year Chart: Visualize yearly profit trends to identify growth opportunities.  
 ✅ Sales Breakdown by Category: Dive deep into sales distribution across categories.  
